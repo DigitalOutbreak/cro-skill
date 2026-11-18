@@ -1,0 +1,4 @@
+interface:
+  display_name: "Conversion-Focused Web Design"
+  short_description: "Design, audit, and test conversion journeys"
+  default_prompt: "Use $conversion-focused-web-design to review this landing page and its primary conversion path."
